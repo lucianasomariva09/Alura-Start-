@@ -68,7 +68,7 @@ margin-bottom: 1em;
 margin: 0 6em;
 }
  .secundario-imagem{
-width: 60%;
+width: 80%;
 
  }
 .descrição-titulo{
@@ -84,6 +84,18 @@ margin-bottom: 0.1em;
 .secundario{
 align-items: center;
 margin: 0 10em;
+
+}
+
+.secundario-botao{
+display: inline-block;
+margin-top: 1em;
+
+
+}
+.container-descrição{
+padding: 2em;
+
 
 
 }
